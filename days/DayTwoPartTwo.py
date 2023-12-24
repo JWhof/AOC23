@@ -1,4 +1,5 @@
 file = open("inputs/DayTwo.txt", "r").read()
+
 dict_of_games_and_pulls = {}
 list_of_powers = []
 game_id = 1
